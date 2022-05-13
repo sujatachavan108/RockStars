@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8311" started-at="2022-05-11T14:43:23 IST" finished-at="2022-05-11T14:43:32 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8311" started-at="2022-05-11T14:43:23 IST" finished-at="2022-05-11T14:43:32 IST">
+      <class name="com.pack1.SecondTestCase">
+        <test-method status="PASS" signature="getTitle()[pri:0, instance:com.pack1.SecondTestCase@11758f2a]" name="getTitle" duration-ms="8184" started-at="2022-05-11T14:43:24 IST" finished-at="2022-05-11T14:43:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle -->
+      </class> <!-- com.pack1.SecondTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
